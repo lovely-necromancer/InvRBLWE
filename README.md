@@ -1,5 +1,6 @@
 # InvRBLWE
 HDL implementation of the Inverted Binary Ring-LWE. Lightweight Post-quantum Cryptosystem. Ideal for Internet of Things (IoT) applications. 
+The uploaded implementations are at early stages. Full-spec implementations are not available for public because of the Patent No. US20200204363A1.
 
 # Licence and Copyright
 Copyright (c) 2020 sh-ebrahimi
