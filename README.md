@@ -8,7 +8,7 @@ Copyright (c) 2020 sh-ebrahimi
 
 Permission is hereby granted for **ONLY research and academic** use with transparent and clear reference to **[1] and [2]**.
 
-This license **DISALLOWs any commercial or patent-related usage**.
+This license **prevents any commercial or patent-related usage**.
 
 [1] Ebrahimi, Shahriar, Siavash Bayat-Sarmadi, and Hatameh Mosanaei-Boorani. "Post-quantum cryptoprocessors optimized for edge and resource-constrained devices in IoT." IEEE Internet of Things Journal 6, no. 3 (2019): 5500-5507.
 
